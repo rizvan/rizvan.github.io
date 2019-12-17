@@ -2835,7 +2835,7 @@ blockquote {
 #content {
 }
 #content.bg {
-	background: url(../images/parallax-bg.jpg) fixed center top no-repeat;
+	background: url(../images/1.jpeg) fixed center top repeat;
 	display: inline-block;
 	width: 100%;
 	padding-top: 100px;
