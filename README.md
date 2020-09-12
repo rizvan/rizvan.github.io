@@ -1,6 +1,6 @@
 # rizvan.github.io
 
-Hosted on www.rizvan.work
+Hosted on http://rizvan.work
 
 http://rizvan.github.io
 Personal Profile
